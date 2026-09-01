@@ -1,0 +1,6 @@
+{
+  "name": "WinDesk Cloud PC",
+  "description": "Full-screen landscape desktop environment inspired by Windows 11 with multi-window manager, local tools, real remote/cloud PC virtualization architecture, and performance dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
